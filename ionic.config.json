@@ -1,0 +1,7 @@
+{
+    "name": "Expense Tracker",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
